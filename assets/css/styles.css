@@ -1,0 +1,23 @@
+body {
+    background: gray;
+
+}
+
+main section {
+    width: 200px;
+    border: 25px solid black;
+    background: turquoise;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+main section p {
+
+    display: inline-block;
+}
